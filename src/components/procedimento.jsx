@@ -8,6 +8,10 @@ const Card = styled.div`
   box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
   text-align: center;
 
+  @media (max-width: 432px){
+     width: 160px;
+  }
+
   @media (max-width: 360px){
     width: 130px;
   }
