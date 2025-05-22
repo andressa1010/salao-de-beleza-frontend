@@ -51,5 +51,7 @@ Layout responsivo, agradável e intuitivo.
 🚫 Aviso Importante
 Este projeto foi desenvolvido apenas para fins de estudo e portfólio. A reprodução, cópia, modificação ou utilização dos códigos sem minha autorização não é permitida.
 
+deploy: https://agendamentossalao.netlify.app/]
+
 💻 Desenvolvido por
 Andressa Nunes Linkdin: https://www.linkedin.com/in/andressa-nunes-silva/
